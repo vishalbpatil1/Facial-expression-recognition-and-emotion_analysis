@@ -11,16 +11,16 @@ Download Fer2013 dataset --https://www.kaggle.com/c/challenges-in-representation
 
 ## custom network 
 Ensemble CNN Deep 
-network1 ,
-network2 ,
-network3
+1} network1 ,
+2} network2 ,
+3} network3
 ## Pre Trained network
 DeepFace --DeepFace is a deep learning facial recognition system created by a research group at Facebook. 
 ## installation 
-Keras
-Tensorflow
-Opencv
-DeepFace
+Keras ,
+Tensorflow,
+Opencv,
+DeepFace .
 # Testing on Real world Image
 Steps are as follows :-
 1. Read the image, convert it to gray-scaleimage for custom network or rgb image for deepface and save it.
