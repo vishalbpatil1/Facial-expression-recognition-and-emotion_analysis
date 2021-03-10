@@ -17,10 +17,12 @@ Ensemble CNN Deep
 ## Pre Trained network
 DeepFace --DeepFace is a deep learning facial recognition system created by a research group at Facebook. 
 ## installation 
+```
 Keras ,
 Tensorflow,
 Opencv,
 DeepFace .
+```
 # Testing on Real world Image
 Steps are as follows :-
 1. Read the image, convert it to gray-scaleimage for custom network or rgb image for deepface and save it.
@@ -34,3 +36,9 @@ Steps are as follows :-
 understanding how these stuff work will enable you to explore & understand more interesting things build using them like the automatic FER (face expression recognation ) system.
 Automatic detect customer satisfaction using smart camera.
 Testing candidates during interviews.
+
+### Test sample
+![image](https://github.com/vishalbpatil1/Facial-expression-recognition-and-emotion_analysis/blob/master/face_exp3.png)
+![image2](https://github.com/vishalbpatil1/Facial-expression-recognition-and-emotion_analysis/blob/master/face_exp2.png)
+![image3](https://github.com/vishalbpatil1/Facial-expression-recognition-and-emotion_analysis/blob/master/face_exp1.png)
+
