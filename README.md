@@ -37,6 +37,9 @@ understanding how these stuff work will enable you to explore & understand more 
 Automatic detect customer satisfaction using smart camera.
 Testing candidates during interviews.
 
+[Linkedin post view](https://www.linkedin.com/posts/vishal-patil-b6a3a0195_successfully-completedproject-deeplearning-activity-6655350786471628800-qmVr)
+
+
 ### Test sample
 ![image](https://github.com/vishalbpatil1/Facial-expression-recognition-and-emotion_analysis/blob/master/face_exp3.png)
 ![image2](https://github.com/vishalbpatil1/Facial-expression-recognition-and-emotion_analysis/blob/master/face_exp2.png)
